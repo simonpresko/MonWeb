@@ -2,6 +2,11 @@ import discord
 import asyncio
 import argparse
 
+#CREATED BY MONDEVILISH
+#PWEDE MO DECODE BUT DON'T REMOVE THE CREDITS
+#PA MESSAGE IF MAY PROBLEMA SA CODE
+
+
 parser = argparse.ArgumentParser(description='Run the Discord nuker bot.')
 parser.add_argument('--token', required=False, help='Discord bot token')
 args = parser.parse_args()
